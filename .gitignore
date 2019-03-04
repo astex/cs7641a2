@@ -1,0 +1,11 @@
+# Vim
+*.swp
+
+paper
+!paper/plots
+data/*
+
+# Python
+*.pyo
+__pycache__
+
