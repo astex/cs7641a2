@@ -1,7 +1,7 @@
 # CS7641 Assignment 2 - Randomized Optimization
 
 All code is located at
-(github.com/astex/cs7641a2)[https://github.com/astex/cs7641a2]. I ran
+[github.com/astex/cs7641a2](https://github.com/astex/cs7641a2). I ran
 everything in python 3.7.2. It all might work in some other version or it might
 not.
 
