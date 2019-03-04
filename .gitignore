@@ -1,7 +1,7 @@
 # Vim
 *.swp
 
-paper
+paper/*
 !paper/plots
 data/*
 
